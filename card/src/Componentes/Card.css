@@ -1,0 +1,266 @@
+
+.textotopo{
+  display: block;
+  margin-left: 200px;
+  margin-top: 130px;
+}
+
+.artigo1{
+  margin-left: 250px;
+  margin-top: 40px;
+  width: 300px;
+  overflow: hidden;
+  box-shadow: 0px 0px 5px -5px;
+  transition: 0.3s;
+  animation: ease-in;
+  display: block;
+  border: 0.5px solid #1e5920;
+  border-radius: 5px;
+}
+
+.artigo1:hover{
+  transform: scale(1,1);
+  box-shadow: 0px 0px 5px -0px;
+}
+
+.img{
+  overflow: hidden;
+  height: 100%;
+  width: 100%;
+}
+
+.disposicaotext{
+  margin: 1rem;
+  margin-top: 0.3rem;
+}
+
+.subtitleautor{
+  display: block;
+  margin-top: -10px;
+}
+
+.subtitledate{
+  display: block;
+  margin-top: -37px;
+  margin-left: 0px;
+  font-size: 12px;
+}
+.cardbody{
+  display:flex;
+  text-align:start;
+  margin-top: -20px;
+}
+
+.linha{
+  background: #d0d1d3;
+}
+.cardbutton{
+  display: flex;
+  justify-content:center;
+  padding: 6px;
+  margin-top: -20px;
+}
+
+
+.cardbutton button{
+  margin-top: 10px;
+  background-color: white;
+  border: none;
+  transition:0.2s;
+  cursor: pointer;
+}
+.cardbutton:hover{
+  transform: scale(1,1);
+}
+
+a{
+  color:#01113d;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+
+.artigo2{
+  margin-left: 650px;
+  margin-top: -450px;
+  width: 300px;
+  overflow: hidden;
+  box-shadow: 0px 0px 5px -5px;
+  transition: 0.3s;
+  animation: ease-in;
+  display: block;
+  border: 0.5px solid #1e5920;
+  border-radius: 5px;
+}
+
+.artigo2:hover{
+  transform: scale(1,1);
+  box-shadow: 0px 0px 5px -0px;
+}
+
+.tittle2{
+  margin-top: -10px;
+}
+
+
+.artigo3{
+  margin-left: 1050px;
+  margin-top: -445px;
+  width: 300px;
+  overflow: hidden;
+  box-shadow: 0px 0px 5px -5px;
+  transition: 0.3s;
+  animation: ease-in;
+  display: block;
+  border: 0.5px solid #1e5920;
+  border-radius: 5px;
+  ;
+}
+
+.artigo3:hover{
+  transform: scale(1,1);
+  box-shadow: 0px 0px 5px -0px;
+}
+
+
+.artigo4{
+  margin-left: 250px;
+  margin-top: 100px;
+  width: 300px;
+  overflow: hidden;
+  box-shadow: 0px 0px 5px -5px;
+  transition: 0.3s;
+  animation: ease-in;
+  display: block;
+  border: 0.5px solid #1e5920;
+  border-radius: 5px;
+}
+
+.artigo4:hover{
+  transform: scale(1,1);
+  box-shadow: 0px 0px 5px -0px;
+}
+
+
+.artigo5{
+  margin-left: 650px;
+  margin-top: -405px;
+  width: 300px;
+  overflow: hidden;
+  box-shadow: 0px 0px 5px -5px;
+  transition: 0.3s;
+  animation: ease-in;
+  display: block;
+  border: 0.5px solid #1e5920;
+  border-radius: 5px;
+}
+
+.artigo5:hover{
+  transform: scale(1,1);
+  box-shadow: 0px 0px 5px -0px;
+}
+
+.artigo6{
+  margin-left: 1050px;
+  margin-top: -405px;
+  width: 300px;
+  overflow: hidden;
+  box-shadow: 0px 0px 5px -5px;
+  transition: 0.3s;
+  animation: ease-in;
+  display: block;
+  border: 0.5px solid #1e5920;
+  border-radius: 5px;
+}
+
+.artigo6:hover{
+  transform: scale(1,1);
+  box-shadow: 0px 0px 5px -0px;
+}
+  
+
+.sectioncadastro{
+  background-color: #01113d;
+  margin-top: 30px;
+  padding: 30px;
+}
+.sectiontext{
+  text-align: center;
+  margin-top: 10px;
+  font-size: 30px;
+ margin-bottom: 20px;
+ display: block;
+}
+
+.inputemail{
+ align-items: center;
+ margin-left: 450px;
+ border-radius: 7px;
+ background-color:white;
+ border-color: white;
+ width: 400px;
+ padding: 10px;
+}
+
+.buttoncadastro{
+  margin-left: 40px;
+  font-size: 15px;
+  padding: 10px;
+  background-color: white;
+  border-color: white;
+  border-radius: 7px;
+  cursor: pointer;
+}
+.noticia1{
+  margin-left: 250px;
+  margin-top: 70px;
+  width: 300px;
+  overflow: hidden;
+  box-shadow: 0px 0px 5px -5px;
+  transition: 0.3s;
+  animation: ease-in;
+  display: block;
+  border: 0.5px solid #1e5920;
+  border-radius: 5px;
+
+}
+
+.noticia1:hover{
+  transform: scale(1,1);
+  box-shadow: 0px 0px 5px -0px;
+}
+.noticia2{
+  margin-left: 650px;
+  margin-top: -362px;
+  width: 300px;
+  overflow: hidden;
+  box-shadow: 0px 0px 5px -5px;
+  transition: 0.3s;
+  animation: ease-in;
+  display: block;
+  border: 0.5px solid #1e5920;
+  border-radius: 5px;
+}
+
+.noticia2:hover{
+  transform: scale(1,1);
+  box-shadow: 0px 0px 5px -0px;
+}
+
+.noticia3{
+  margin-left: 1050px;
+  margin-top: -362px;
+  width: 300px;
+  overflow: hidden;
+  box-shadow: 0px 0px 5px -5px;
+  transition: 0.3s;
+  animation: ease-in;
+  display: block;
+  border: 0.5px solid #1e5920;
+  border-radius: 5px;
+}
+
+.noticia3:hover{
+  transform: scale(1,1);
+  box-shadow: 0px 0px 5px -0px;
+}
